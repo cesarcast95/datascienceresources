@@ -1,0 +1,24 @@
+//Clase Librerías a instalar
+
+pip3 install pandas
+pip3 install NumPy
+pip3 install matplotlib
+pip3 install IPython
+pip3 install scikit-learn
+
+//Abrir editor de texto Jupyter
+
+jupyter notebook //Se escribe en consola tal cuál
+
+// A cerca de Data scientist
+
+*Los datos se pueden analizar con dos puntos de vista diferentes
+
+-> Análisis retrospectivo = Con datos históricos
+-> Análisis predictivo = predice el futuro
+
+//Data Set
+
+*Es un fichero
+
+Siempre preguntar primero cómo están separados los datos a la hora de realizar la exportación de la base de datos (, o ; o - //etc//....)
